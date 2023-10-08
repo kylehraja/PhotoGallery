@@ -1,6 +1,7 @@
 # PhotoGallery
 A photo gallery of cat photos using HTML and CSS flexbox properties
 
+![2023-10-08_10h37_20](https://github.com/kylehraja/PhotoGallery/assets/140476247/7b2b1fe1-41d4-4fce-8f2e-9545b134e779)
 
 Set up to run web page:
 
